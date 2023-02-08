@@ -1,0 +1,26 @@
+{
+  "name": "api-rest-express1",
+  "version": "0.1.0",
+  "description": "Creation API Rest avec Expressjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "API",
+    "Rest",
+    "Rest",
+    "api",
+    "expressjs",
+    "javascript"
+  ],
+  "author": "Mariame Dia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
